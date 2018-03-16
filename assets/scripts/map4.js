@@ -11,6 +11,7 @@ $(document).ready(function() {
     var service;
     var infowindow;
     var marker;
+    var x;
 
     // API keys
 
